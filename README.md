@@ -1,3 +1,4 @@
 # fundamentos-cotil
-Fundame cotil
+Um repositório para os arquivos da 
+disciplina de Fundamentos.
 
