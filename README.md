@@ -5,7 +5,10 @@ feature/comandos-git
 
 ## Sobre mim
 
-Eu sou **Matheus** estou no 2º colegial, e faço curso técnico no **_SENAI_** e COTIL, gosto de jogos e de RPG.
+Sou Matheus, estudante do 2º colegial, e faço curso técnico no SENAI e COTIL.
+Apaixonado por jogos e RPG, sempre busco me divertir e aprender mais sobre esse universo. 
+Acredito que a combinação de estudos e hobbies me ajuda a crescer 
+tanto pessoal quanto profissionalmente.
 
 ### Habilidades
 -sou criativo
